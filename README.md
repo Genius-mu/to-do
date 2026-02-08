@@ -50,6 +50,6 @@ A simple **Todo List** app built with **React**, featuring animations, local sto
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/Genius-mu/to-do>
+cd <https://github.com/Genius-mu/to-do/commit/87cb8437c514806dfa8ecc078d6a31e3d259eb96>
 ```
